@@ -4,7 +4,7 @@ I'm a 4th-year Computer Engineering student at TU Dublin actively seeking a grad
 
 ## 🛠️ Technologies & Skills
 
-*   **Languages:** C, C++, Python, Javascript, Assembly (AVR), SQL, HTML5, CSS
+*   **Languages:** C, C++, Java, Python, Javascript, Assembly (AVR), SQL, HTML5, CSS
 *   **Embedded Systems:** Microcontrollers (AVR/Arduino, ESP32-S3), Register Interfacing, SPI, UART, PCB Design (Eagle)
 *   **Web Development:** Node.js, Express.js, RESTful APIs, Azure SQL Database
 *   **Tools & Platforms:** Arduino IDE, VS Code, Microsoft Azure, Git, GitHub, MSYS2 UCRT64, Eagle, Multisim UI, Debian
