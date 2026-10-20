@@ -28,7 +28,7 @@ Here is coding assignments and tutorials I completed in some coding modules:
 | :--- | :--- | :--- |
 | **[Object-Oriented-Programming](https://github.com/DovydasKlisys232/Object-Oriented-Programming)** | learned about object-oriented fundamentals using C++ | C++|
 | **[Web technologies & Databases](https://github.com/DovydasKlisys232/Web-technologies-Databases)** | learned about how to design websites with HTML, CSS and Azure databases | HTML, CSS, Azure |
-| **[Java & Algorithms](https://github.com/DovydasKlisys232/Java-Algorithms-Module)** | learned to transition OOP skills into Java and introduced to searching and sorting algorithms aswell as data structures |
+| **[Java & Algorithms](https://github.com/DovydasKlisys232/Java-Algorithms-Module)** | learned to transition OOP skills into Java and introduced to searching and sorting algorithms aswell as data structures | Java |
 
 ## 📈 My GitHub Stats
 
