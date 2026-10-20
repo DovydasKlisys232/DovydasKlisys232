@@ -1,6 +1,6 @@
 # Hi, I'm Dovydas Klisys 👋
 
-I'm a third-year Computer Engineering student at TU Dublin actively seeking a summer 2026 internship. I'm passionate about bridging the gap between hardware and software, with a strong interest in embedded system design, software development and web design.
+I'm a 4th-year Computer Engineering student at TU Dublin actively seeking a graduate role for 2027. I'm passionate about bridging the gap between hardware and software, with a strong interest in embedded system design, software development and web design.
 
 ## 🛠️ Technologies & Skills
 
