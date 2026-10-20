@@ -18,6 +18,7 @@ Here are a few projects I'm particularly proud of:
 | :--- | :--- | :--- |
 | **[SENSATE-X Model Rocket](https://github.com/AdriaMB/Rocket_project)** | Developed C++ firmware for an ESP32-S3 to read data from sensors (BMP280) and store it in an SD card as part of an international Erasmus BIP program in Germany. | C++, ESP32-S3, SPI, Arduino IDE, Sensor Integration |
 | **[environmental-monitoring-controller](https://github.com/DovydasKlisys232/environmental-monitoring-controller)** | Designed a custom PCB using Eagle, incorporating Arduino328p, SPI sensors, and assembled the system. Programmed in C++ to read sensor data, control actuators, and transmit data via UART to ESP32. | C++, PCB Design (Eagle), Arduino328p, SPI, UART, Soldering |
+| **[STMP26 Boat Monitoring System](https://github.com/DovydasKlisys232/STMP26-Team7)** | Collborated with a diverse team of students in different European universities. Designed overall system program. Created camera code to capture images every second and transport to a local http server. Gathered positional data from parsing GNSS messages. System consists of an Tenstar ESP32-S3, OV2640 camera module and a LC29H GNSS receiver|
 | **[Full-Stack Web Application](link-to-repo)** | Developed server-side logic with Node.js/Express.js to create RESTful APIs and integrated Azure SQL database for efficient data storage and retrieval in a team collaboration project. | Node.js, Express.js, RESTful APIs, Azure SQL, JavaScript, GitHub |
 
 ## 📖 school work
