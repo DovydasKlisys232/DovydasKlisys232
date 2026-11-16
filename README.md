@@ -35,8 +35,11 @@ Here is coding assignments and tutorials I completed in some coding modules:
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DovydasKlisys232&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DovydasKlisys232&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=DovydasKlisys232&show_icons=true&theme=radical&hide_border=true" />
+</p>
+ 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DovydasKlisys232&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect!
